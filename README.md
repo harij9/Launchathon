@@ -28,3 +28,5 @@ Argument	Details	Default
 --iter	number of iterations to run the model for	1500
 --save_folder	Directory to save checkpoint	CURRENT_DIR
 After model has been trained, meta_files are saved into 'save_folder'. To test the model, run the command with the following arguments: python Running.py
+
+Final
